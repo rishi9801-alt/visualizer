@@ -19,7 +19,7 @@ A web-based sorting algorithm visualizer built using HTML, CSS, and JavaScript.
 2. Open `index.html` in browser
 
 ## Preview
-(Add screenshot here)
+(Screenshot 2026-04-19 035520.png)
 
 ## Author
 Rishav Raj
