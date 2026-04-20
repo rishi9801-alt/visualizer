@@ -1,26 +1,53 @@
-# Sorting Visualizer 🚀
+# 🎬 Sorting Visualizer
 
-A web-based sorting algorithm visualizer built using HTML, CSS, and JavaScript.
+A responsive and interactive web-based sorting algorithm visualizer built using **HTML, CSS, and JavaScript**.  
+It helps users understand how sorting algorithms work through real-time animations.
 
-## Features
-- Bubble Sort Visualization
-- Selection Sort Visualization
-- Merge Sort Visualization
-- Animated bar movements
-- Random array generation
+---
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript (DOM Manipulation)
+## 🚀 Live Demo
+👉 https://rishi9801-alt.github.io/visualizer/
 
-## How to Run
-1. Clone the repo
-2. Open `index.html` in browser
+---
 
-## Preview
-![Preview](./images/Screenshot 2026-04-19 035520.png)
+## ✨ Features
 
+- 📊 Visualizes popular sorting algorithms:
+  - Bubble Sort
+  - Selection Sort
+  - Merge Sort
+- 🎞️ Smooth animated bar transitions
+- 🔀 Random array generator
+- ⚡ Real-time step-by-step visualization
+- 🎯 Beginner-friendly UI for learning algorithms
 
-## Author
-Rishav Raj
+---
+
+## 🧠 What I Learned
+
+- DOM manipulation using JavaScript
+- Algorithm visualization techniques
+- Time complexity understanding through visuals
+- Event-driven programming in frontend development
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📸 Project Preview
+
+![Sorting Visualizer](Screenshot%202026-04-19%20035520.png)
+
+---
+
+## 📂 How to Run Locally
+
+```bash
+git clone https://github.com/rishi9801-alt/visualizer.git
+cd visualizer
